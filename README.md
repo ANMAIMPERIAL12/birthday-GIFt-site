@@ -54,4 +54,6 @@ GIFs sourced from Giphy
 and free image resources.
 
 ---
+🌍 Demo
 
+🔗 Live Demo: https://bdaygifs.netlify.app
